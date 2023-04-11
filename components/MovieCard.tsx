@@ -4,7 +4,6 @@ import { useRouter } from "next/router";
 import React, { useCallback } from "react";
 
 import { PlayIcon } from "@heroicons/react/24/solid";
-import { BsFillPlayFill } from "react-icons/bs";
 import FavoriteButton from "./FavoriteButton";
 
 interface MovieCardProps {

@@ -1,5 +1,4 @@
 import React from "react";
-import { BsFillPlayFill, BsPlayFill } from "react-icons/bs";
 import { useRouter } from "next/router";
 import { PlayIcon } from "@heroicons/react/24/outline";
 

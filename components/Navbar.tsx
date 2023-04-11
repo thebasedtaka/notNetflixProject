@@ -2,7 +2,6 @@ import NavbarItem from "./NavbarItem";
 import { BsChevronDown, BsSearch, BsBell } from "react-icons/bs";
 import MobileMenu from "./MobileMenu";
 import { useCallback, useEffect, useState } from "react";
-import { current } from "@reduxjs/toolkit";
 import AccountMenu from "./AccountMenu";
 
 const TOP_OFFSET = 66;

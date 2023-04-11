@@ -1,5 +1,4 @@
 import useCurrentUser from "@/hooks/useCurrentUser";
-import { sign } from "crypto";
 import { signOut } from "next-auth/react";
 import React from "react";
 
